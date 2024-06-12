@@ -35,8 +35,3 @@ const LittleMountain = new Stack<number>();
 LittleMountain.push(1);
 LittleMountain.push(2);
 LittleMountain.push(3);
-
-console.log(LittleMountain.pop()); 
-console.log(LittleMountain.pop()); 
-console.log(LittleMountain.pop()); 
-console.log(LittleMountain.pop());
