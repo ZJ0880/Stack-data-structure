@@ -30,8 +30,3 @@ class Stack<T> {
         return value;
     }
 }
-
-const LittleMountain = new Stack<number>();
-LittleMountain.push(1);
-LittleMountain.push(2);
-LittleMountain.push(3);
